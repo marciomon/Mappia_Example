@@ -1,0 +1,81 @@
+X,Y,Field1,Código da,Código op,Código an,Corpo híd,Operador,Âmbito,Tipo de mo,Municipio,Estado,qualidade,Vazão,Parâmetro,Observaç�,icon_url
+-44.7299999999999,-22.53,,RJ00,FN130,PC-06,Reservatório Funil,INEA,RJ,qualidade,Queluz,SP,X,X,coleta + vazão,"-",./0.png
+-44.57,-22.53,,RJ01,PS410,PC-07,Reservatório Funil,INEA,RJ,qualidade,Itatiaia,RJ,X,X,coleta + vazão,"-",./0.png
+-44.5546996602408,-22.5002999807749,,RJ02,"58242",PC-07,Reservatório Funil,FURNAS,RJ,quantidade,Itatiaia,RJ,X,X,coleta + vazão,"-",./0.png
+-44.1899999999999,-22.53,,RJ03,PS418,PC-08,Rio Paraíba do Sul,INEA,RJ,qualidade,Volta Redonda,RJ,X,X,coleta + vazão,"-",./0.png
+-44.0906088004528,-22.5014036993008,,RJ04,PS419,PC-08,Rio Paraíba do Sul,INEA / CPRM,RJ,qualidade,Volta Redonda,RJ,X,X,coleta + vazão,"-",./0.png
+-44.06,-22.48,,RJ05,PS421,PC-08,Rio Paraíba do Sul,INEA,RJ,qualidade,Volta Redonda,RJ,X,X,coleta + vazão,"-",./0.png
+-43.84,-22.48,,RJ06,SC200,PC-09,Represa de Santa Cecília,INEA,RJ,qualidade,Barra do Piraí,RJ,X,X,coleta + vazão,"-",./0.png
+-43.7989001807151,-22.4493998398973,,RJ07,"58321000",PC-09,Rio Paraíba do Sul,FURNAS,RJ,quantidade,Barra do Piraí,RJ,X,X,coleta + vazão,"-",./0.png
+-43.40746747,-22.21823995,,RJ08,"-",PPRJ-01,Rio Paraíba do Sul,INEA,RJ,qualidade,Vassouras,RJ,X,X,coleta + vazão,Andrade Pinto,./0.png
+-43.2074985289589,-22.1196993321873,,RJ09,"58385000",PC-10,Rio Paraíba do Sul,LIGHT,RJ,quantidade,Três Rios,RJ,X,X,coleta + vazão,"-",./0.png
+-43.17,-22.1099999999999,,RJ10,PS430,PC-10,Rio Paraíba do Sul,INEA,RJ,qualidade,Três Rios,RJ,X,X,coleta + vazão,"-",./0.png
+-43.1574679409622,-22.1416792976251,,RJ11,"58440000",PC-11,Rio Paraibuna,CPRM,RJ,quantidade,Três Rios,RJ,X,X,coleta + vazão,"-",./0.png
+-43.14,-22.1299999999999,,RJ12,PB011,PPRJ-02,Rio Piabanha,INEA,RJ,qualidade,Três Rios,RJ,X,X,coleta + vazão,"-",./0.png
+-43.1499999999999,-22.0899999999999,,RJ13,PN270,PC-14,Rio Paraibuna,INEA,RJ,qualidade,Três Rios,RJ,X,X,coleta + vazão,"-",./0.png
+-42.5805298,-21.8378396499999,,RJ14,"-",PPRJ-03,Rio Paraíba do Sul,INEA,RJ,qualidade,Carmo,RJ,X,X,coleta + vazão,Ilha dos Pombos,./0.png
+-42.571505,-22.2190939999999,,RJ15,"-",PPRJ-06,Rio Grande,INEA,RJ,qualidade,Nova Friburgo,RJ,X,X,coleta + vazão,indicação do CBH-R2R,./0.png
+-42.356475,-21.9537189999999,,RJ16,"-",PPRJ-05,Rio Negro,INEA,RJ,qualidade,Cantagalo,RJ,X,X,coleta + vazão,indicação do CBH-R2R,./0.png
+-42.0810999191834,-21.6658002455432,,RJ17P1,BS075,PC-15,Rio Paraíba do Sul,INEA,RJ,qualidade,Itaocara,RJ,X,X,coleta + vazão,"-",./0.png
+-43.2074985289589,-22.1196993321873,,RJ17P2,PS434,PC-15,Rio Paraíba do Sul,INEA,RJ,qualidade,Itaocara,RJ,X,X,coleta + vazão,"-",./0.png
+-41.99,-21.6299999999999,,RJ18P1,PS425,PC-15,Rio Paraíba do Sul,INEA,RJ,quantidade,Itaocara,RJ,X,X,coleta + vazão + instalar/operar estação,estação nova,./0.png
+-41.9900000007763,-21.6299999999998,,RJ18P2,PS436,PC-15,Rio Paraíba do Sul,INEA,RJ,qualidade,Itaocara,RJ,X,X,coleta + vazão,"-",./0.png
+-41.8585985166883,-21.6433124159171,,RJ19P1,PS439,PC-17,Rio Dois Rios,INEA / CPRM,RJ,qualidade,São Fidelis,RJ,X,X,coleta + vazão,"-",./0.png
+-41.790477,-21.601144,,RJ20,"-",PPRJ-04,Rio Dois Rios,INEA,RJ,qualidade,São Fidelis,RJ,X,X,coleta + vazão,indicação do CBH-R2R,./0.png
+-41.75,-21.64,,RJ21,PS439,PPRJ-07,Rio Paraíba do Sul,INEA,RJ,qualidade,São Fidelis,RJ,X,X,coleta + vazão,"-",./0.png
+-41.329999999975,-21.7400000000019,,RJ23,PS441,PC-21,Rio Paraíba do Sul,INEA,RJ,qualidade,Campos dos Goytacazes,RJ,X,X,coleta + vazão,"-",./0.png
+-41.4099999999999,-21.6499999999999,,RJ23,MR370,PPRJ-08,Muriaé,INEA,RJ,qualidade,Campos dos Goytacazes,RJ,X,X,coleta + vazão,"-",./0.png
+-41.3010219996118,-21.7540269999999,,RJ24,"58974000",PC-21,Rio Paraíba do Sul,CPRM,RJ,quantidade,Campos dos Goytacazes,RJ,X,X,coleta + vazão,"-",./0.png
+-41.3643929999999,-21.6789319999999,,RJ25,"-",PPRJ-09,Muriaé,INEA,RJ,qualidade,Campos dos Goytacazes,RJ,X,X,coleta + vazão,indicação do CBH-R2R,./0.png
+-41.6166588186922,-21.486931631751,,RJ26,"58960000",PC-20,Cardoso Moreira,FURNAS,RJ,quantidade,Cardoso Moreira,RJ,X,X,coleta + vazão,"-",./0.png
+-41.9399999999999,-21.1799999999998,,RJ27,CR020,PPRJ-10,Rio Carangola,INEA,RJ,qualidade,Itaperuna,RJ,X,X,coleta + vazão,"-",./0.png
+-42.1199999999999,-21.1999999999999,,RJ28,MR374,PC-18,Rio Muriaé,INEA,RJ,qualidade,Itaperuna,RJ,X,X,coleta + vazão,"-",./0.png
+-42.2503847167301,-21.4956138789325,,RJ29,"5892000",PC16,Rio Pomba,INEA,RJ,quantidade,Santo Antônio de Pádua,RJ,X,X,coleta + vazão,coincide com ponto de furnas,./0.png
+-43.28,-22.01,,RJ30,PN273,PC-13,Rio Paraibuna,INEA,RJ,qualidade,Simão Pereira,RJ,X,X,coleta + vazão,,./0.png
+-45.6124999999999,-23.3656,,,INGA00850,,Braço do Rio Paraitinga,CETESB,SP,Qualidade,PARAIBUNA,SP,,,Físicos / Químicos / Biológicos,Reserv. Braço Paraitinga,./0.png
+-45.5713999999999,-23.4182999999999,,,IUNA00950,,Braço do Rio Paraibuna,CETESB,SP,Qualidade,PARAIBUNA,SP,,,Físicos / Químicos / Biológicos,Reserv. Braço Paraibuna,./0.png
+-44.7738999999999,-22.5422,,,PARB02900,,Rio Paraíba do Sul,CETESB,SP,Qualidade,QUELUZ,SP,,Posto FLU (58235000-ANA),Físicos / Químicos / Biológicos,Posto FLU (58235000-ANA) - Queluz,./0.png
+-45.8995,-23.3677999999999,,,Santa Branca ,,Rio Paraíba do Sul,DAEE-FCTH/SAISP,SP,Posto fluviométrico,Santa Branca,SP,,,CHUVA/ NÍVEL,Santa Branca Automática,./0.png
+-45.8997,-23.3680999999999,,,PARB02100,,Rio Paraíba do Sul,CETESB,SP,Qualidade,SANTA BRANCA,SP,,Posto FLU (159-FCTH),Físicos / Químicos / Biológicos,Posto FLU (159-FCTH) - Santa Branca,./0.png
+-46.0275,-23.1935999999999,,,JAGJ00900,,Reservatório do Jaguari - UGRHI 02,CETESB,SP,Qualidade,SÃO JOSÉ DOS CAMPOS,SP,,,Físicos / Químicos / Biológicos,Reserv. Jaguari,./0.png
+-45.1193999999999,-22.7033,,,PARB02700,,Rio Paraíba do Sul,CETESB,SP,Qualidade,LORENA,SP,,,Físicos / Químicos / Biológicos,Lorena,./0.png
+-45.4710052175002,-22.9115824637499,,,PARB02530,,Rio Paraíba do Sul,CETESB,SP,Qualidade,PINDAMONHANGABA,SP,,x,Físicos / Químicos / Biológicos,Pindamonhangaba,./0.png
+-44.7727999999999,-22.5399999999999,,,"58235100",,RIO PARAÍBA DO SUL,ANA,SP,Posto fluviométrico,QUELUZ,SP,,ESTAÇÕES ANA (RESOLUÇÃO N°3),CHUVA/ NÍVEL/ VAZÃO,ESTAÇÕES ANA (RESOLUÇÃO N°3) - automática,./0.png
+-45.8986999999999,-23.1537,,,Jardim Telespark,,Rio Paraíba do Sul,DAEE-FCTH/SAISP,SP,Posto fluviométrico,São José dos Campos,SP,,,CHUVA/ NÍVEL,São José dos Campos,./0.png
+-45.6079999999999,-23.4141,,,UHE PARAIBUNA JUSANTE,,RIO PARAIBUNA,CESP,SP,qualidade,PARAIBUNA,SP,,FLU / PLU,CHUVA/ NÍVEL/ VAZÃO,TELEMÉTRICO - Posto flu,./0.png
+-45.4703,-22.9092707740789,,,PARB02530,,Rio Paraíba do Sul,CETESB,SP,qualidade,PINDAMONHANGABA,SP,,Rede Básica,Físicos / Químicos / Biológicos,Manual - quali,./0.png
+-45.8781,-23.3677999999999,,,PARB02040,,Rio Paraíba do Sul,CETESB,SP,qualidade,SANTA BRANCA,SP,,Estação Automática,"pH, temp., condutividade, turbidez e OD", Sonda multiparâmetro - quali,./0.png
+-45.1278,-22.7071,,,PCH LAVRINHAS/MONTANTE 2,,RIO PARAÍBA DO SUL,LAVRINHAS,SP,qualidade,LORENA,SP,,FLU / PLU,CHUVA/ NÍVEL/ VAZÃO,TELEMÉTRICO - Posto flu,./0.png
+-44.7918999999999,-22.5450000000001,,,PCH QUELUZ/JUSANTE,,RIO PARAÍBA DO SUL,QUELUZ,SP,qualidade,QUELUZ,SP,,FLU / PLU,CHUVA/ NÍVEL/ VAZÃO,TELEMÉTRICO - Posto flu,./0.png
+-46.0183,-23.1991,,,UHE JAGUARI/JUSANTE,,RIO JAGUARI,CESP,SP,qualidade,SÃO JOSÉ DOS CAMPOS,SP,,FLU / PLU,CHUVA/ NÍVEL/ VAZÃO,TELEMÉTRICO - Posto flu,./0.png
+-45.8911133074936,-23.1544008397931,,,BUKI02950,,Rio Buquira,CETESB,SP,qualidade,SÃO JOSÉ DOS CAMPOS,SP,,Rede Básica,Físicos / Químicos / Biológicos,Manual - quali,./0.png
+-42.010602429826,-20.8999863332247,,,BS056,PC-19,,IGAM,MG,Qualidade,Tombos,,,,,Ponto de medição,./0.png
+-42.214855629381,-21.1504791748568,,,BS057,PC-18,,CPRM,MG,Qualidade,Patrocínio do Muriaé,,,,,Ponto de medição,./0.png
+-42.2503847167285,-21.4956138789357,,,BS054,PC-16,,IGAM,MG,Qualidade,Santo Antônio de Pádua,,,,,Ponto de medição,./0.png
+-43.1517345635875,-22.074723543953,,,BS032,PC-14,,IGAM,MG,Qualidade,Chiador,,,,,Ponto de medição,./0.png
+-43.3522429349926,-21.9724213627442,,,BS024,PC-13,,IGAM,MG,Qualidade,Rio Paraibuna - Sobragi,,,,,Ponto de medição,./0.png
+-43.8202674221845,-22.0866191464192,,,"-",PPMG-02,,IGAM,MG,Qualidade,Rio Preto,,,,,Ponto de medição,./0.png
+-43.8822281249391,-21.8625267099434,,,"-",PPMG-03,,IGAM,MG,Qualidade,Rio do Peixe,,,,,Ponto de medição,./0.png
+-43.177573764026,-21.2818039621369,,,"-",PPMG-04,,IGAM,MG,Qualidade,Rio Pomba,,,,,Ponto de medição,./0.png
+-42.9701351710027,-21.2582403122608,,,"-",PPMG-05,,IGAM,MG,Qualidade,Rio Paraopeba,,,,,Ponto de medição,./0.png
+-42.0812737019911,-21.6658969275267,,,BS075,PC-15,,IGAM,MG,Qualidade,Itaocara,,,,,Ponto de medição,./0.png
+-44.0883661584589,-22.1490317681813,,,Rib. Jacutinga,Novo,,IGAM,MG,Qualidade,ribeirão da jacutinga,,,,,Ponto de medição,./0.png
+-42.010602429826,-20.8999863332247,,,"58931000",PC-19,,IGAM,MG,quantidade,Tombos,,,,Automática,Implantação,./0.png
+-42.2142867417403,-21.1501378422724,,,"5892000",PC-18,,CPRM,MG,quantidade,Patrocínio do Muriaé,,,,Automática,Continuação,./0.png
+-42.2502709392004,-21.4945898811825,,,"5820100",PC-16,,IGAM,MG,quantidade,Santo Antônio de Pádua,,,,Automática,Implantação,./0.png
+-43.1517345635875,-22.074723543953,,,"58611000",PC-14,,IGAM,MG,quantidade,Chiador,,,,Automática,Implantação,./0.png
+-43.3563389260051,-21.9724213627442,,,"5850100",PC-13,,IGAM,MG,quantidade,Rio Paraibuna,,,,Automática,Continuação,./0.png
+-43.5585641679294,-22.0842400259259,,,"58585000",PC-12,,CPRM,MG,quantidade,Manuel Duarte,,,,Automática,Implantação,./0.png
+-44.086728917426,-22.1556136407228,,,"1",PPMG-01,,IGAM,MG,quantidade,Ribeirão da Jacutinga,,,,Automática,Continuação,./0.png
+-43.8202674221845,-22.0866191464192,,,"2",PPMG-02,,IGAM,MG,quantidade,Rio Preto,,,,Automática,Continuação,./0.png
+-43.8845036755016,-21.8629818200558,,,"3",PPMG-03,,IGAM,MG,quantidade,Rio do Peixe,,,,Automática,Implantação,./0.png
+-43.1755257685198,-21.280097299215,,,"4",PPMG-04,,IGAM,MG,quantidade,Rio Pomba,,,,Automática,Continuação,./0.png
+-42.9685422856089,-21.2563060942827,,,"5",PPMG-05,,IGAM,MG,quantidade,Rio Paraopeba,,,,Automática,Modernização,./0.png
+-43.3254103595931,-21.7749543618063,,,"58480500",PPMG-06,,IGAM,MG,quantidade,Rio Preto,,,,Automática,Modernização,./0.png
+-42.8805148273595,-21.1397291901145,,,BS071,PPMG-07,,IGAM,MG,quantidade,Rio Ubá,,,,Automática,Implantação,./0.png
+-46.0289890187465,-23.1923692903348,NULL01,,,,,,,,,,,,,,./0.png
+-45.5714391938933,-23.4183042107184,"1",,,,,,,,,,,,,,./0.png
+-45.5092083588441,-23.4860072182255,"2",,,,,,,,,,,,,,./0.png
+-45.4997063395167,-23.5222606038263,"3",,,,,,,,,,,,,,./0.png
+-45.6733013435007,-23.352386184895,"4",,,,,,,,,,,,,,./0.png
+-45.8773419004426,-23.3696134281563,"05",,,,,,,,,,,,,,./0.png
