@@ -182,7 +182,7 @@
 				<Title>ups_bps</Title>
 				<Abstract>GH:ups_bps ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-46.43310884899995" miny="-23.655308472999934" maxx="-40.972951798000054" maxy="-20.434010255999908"></LatLonBoundingBox>
@@ -202,7 +202,7 @@
 				<Title>hidro_ottocodificada_ana</Title>
 				<Abstract>GH:hidro_ottocodificada_ana ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-46.413302671999986" miny="-23.63064891399995" maxx="-41.076061111999934" maxy="-20.459499749999964"></LatLonBoundingBox>
@@ -222,7 +222,7 @@
 				<Title>hidro_anexo</Title>
 				<Abstract>GH:hidro_anexo ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-42.27324472099997" miny="-22.30174164099998" maxx="-41.01172637900008" maxy="-21.610759734999895"></LatLonBoundingBox>
